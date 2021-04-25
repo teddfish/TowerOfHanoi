@@ -1,0 +1,13 @@
+c:\users\sdighe\documents\visual studio 2012\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\sdighe\Documents\Visual Studio 2012\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\sdighe\Documents\Visual Studio 2012\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\sdighe\Documents\Visual Studio 2012\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\sdighe\Documents\Visual Studio 2012\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
+C:\Users\sdighe\Documents\Visual Studio 2012\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojAssemblyReference.cache
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
